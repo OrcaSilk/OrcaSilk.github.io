@@ -3,9 +3,12 @@
   <entry>
     <title>Hello World</title>
     <url>/2022/07/18/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>利用了一些闲暇时间重新规划了一下自己的博客。计划用来写一些平时的观点，类似于日记的作用。也会偶尔把在其他站点发布的内容集中到这里来。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="http://xxx/aplayer.min.css"><script src="http://xxx/aplayer.min.js" class="aplayer-secondary-script-marker"></script><script>var meting_api='http://xxx/api.php?server=:server&type=:type&id=:id&r=:r'</script><script class="meting-secondary-script-marker" src="http://xxx/Meing.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>利用了一些闲暇时间重新规划了一下自己的博客。计划用来写一些平时的观点，类似于日记的作用。也会偶尔把在其他站点发布的内容集中到这里来。</p>
 <p>零代码经验制作这个网站真的很难，花费了我不少时间。希望在接下来完善网站功能和发布内容的过程能让我足够享受。</p>
-<div class="aplayer" data-id="331459731" data-server="Tencent" data-type="song" data-mode="single"></div>
+
+    <div id="aplayer-ioNfEOrF" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="331459731" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
 ]]></content>
   </entry>
 </search>
