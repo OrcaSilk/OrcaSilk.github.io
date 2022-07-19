@@ -7,16 +7,10 @@ const ap = new APlayer({
     listMaxHeight: 60,
     audio: [
         {
-            name: 'name1',
-            artist: 'artist1',
-            url: 'url1.mp3',
-            cover: 'cover1.jpg',
+            name: 'Under Tides',
+            artist: 'Siren-MSR',
+            url: 'http://tsmusic24.tc.qq.com/331459731.mp3',
+            cover: 'background.jpg',
         },
-        {
-            name: 'name2',
-            artist: 'artist2',
-            url: 'url2.mp3',
-            cover: 'cover2.jpg',
-        }
     ]
 });
